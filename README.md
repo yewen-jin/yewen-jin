@@ -22,7 +22,7 @@ I work primarily with web technologies to create innovative real-time applicatio
 ### 🎨 Key Projects & Contributions
 
 - **[Hydra](https://hydra.ojack.xyz/)**: Livecoding networked visuals in the browser - fork and contributions to the video synth platform
-- **[Flocking](http://audiographiclab.com/library/flocking)**: Creative audio synthesis framework for the web
+- **[Flocking](https://flockingjs.org/)**: Creative audio synthesis framework for the web
 - **Networked Performance Tools**: Custom-built systems for remote, collaborative audiovisual performances
 - **Interactive Installations**: Projects exploring presence, embodiment, and mediated realities in digital spaces
 
