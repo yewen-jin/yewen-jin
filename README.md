@@ -8,7 +8,7 @@ I'm djSQL because when I play video games I love sweeping through Side Quests. I
 
 ### Stuff I have done in the past
 
-- Created UI/UX design and did a bit front-end for an interactive online space specialised for gigs and performances during Covid (2021)
+- Created UI/UX design and did a bit front-end for an interactive online space specialised for gigs and performances
 
 - Produced an event series for cross-continental performance together with dances and musicians from 2 different cities (between New York and London) (2022-2024), managing live coordination between performers and the technical pipeline in the 3 successfully delivered events
 
