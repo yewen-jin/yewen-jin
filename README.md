@@ -10,9 +10,9 @@ I'm a creative technologist currently doing an intensive web development course 
 
 - This list is a Work in Progress...
 
-### Why Am I djSQL?
+### Who is djSQL?
 
-I'm djSQL because when I play video games I love sweeping through Side Quests. It is also because I love database. And I'm a DJ sometimes when I'm not coding.
+When djSQL plays video games they sweeps through side quests, hence the name side quest legend.
 
 
 
