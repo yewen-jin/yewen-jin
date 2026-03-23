@@ -1,4 +1,35 @@
-### Who is djSQL?
+
+
+## Yewen Jin
+
+Creative technologist and full-stack developer based in London.
+
+I build real-time web applications, interactive platforms, and creative tools.
+
+### What I've built
+
+- **[Skopetur Platform](link)** — WebRTC streaming interface for live networked performances (Svelte, Node.js, Docker)
+- **[Spillr](link)** — Real-time social commentary app with synced playback (React Native, Express, Socket.io, PostgreSQL)
+- **[Void Space Chatroom](link)** — Live chat with generative visuals (p5.js, three.js, Socket.io)
+- **[Hydra Server](link)** — Custom UI and extensions built on top of the Hydra video synth platform
+
+### Tech
+
+JavaScript/TypeScript, Svelte, React, React Native, Node.js, Express,
+PostgreSQL, MongoDB, WebRTC, WebGL, Web Audio API, Socket.io, Docker, Git, Figma
+
+### Background
+
+MA Computational Arts (Goldsmiths) · Architecture (AA) · BA Maths & Philosophy (NYU) · Full-Stack JS (Northcoders)
+
+---
+
+*Also known as djSQL — she sweeps through side quests, hence the name side quest legend.*
+
+
+
+
+<!--### Who is djSQL?
 
 When djSQL plays video games she sweeps through side quests, hence the name side quest legend.
 
@@ -14,7 +45,7 @@ djSQL is a creative technologist currently doing an intensive web development co
   [press](https://www.showstudio.com/news/revolutionising-the-art-of-performance-distance-anatomy)
   [website](https://skopetur.com/projects/distance-anatomy)
 
-- The list keeps going
+- The list keeps going-->
 
 
 
