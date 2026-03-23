@@ -1,5 +1,3 @@
-
-
 ## Yewen Jin
 
 Creative technologist and full-stack developer based in London.
@@ -8,15 +6,27 @@ I build real-time web applications, interactive platforms, and creative tools.
 
 ### What I've built
 
-- **[Skopetur Platform](link)** — WebRTC streaming interface for live networked performances (Svelte, Node.js, Docker)
-- **[Spillr](link)** — Real-time social commentary app with synced playback (React Native, Express, Socket.io, PostgreSQL)
-- **[Void Space Chatroom](link)** — Live chat with generative visuals (p5.js, three.js, Socket.io)
-- **[Hydra Server](link)** — Custom UI and extensions built on top of the Hydra video synth platform
+- **[Chatroom/Browser-based Ineractive Narrative Game](https://github.com/yewen-jin/synthwave-chatroom)** — [preview](chat.datadadaist.space/docs) Live chat and branch based narrative choice game (twine-style) with generative visuals (p5.js, Socket.io)
+- **Spillr** — [Front-end](https://github.com/Ines1299/SpillR-app) [Back-end](https://github.com/yewen-jin/spillr-BE) Real-time TV commentary app with synced playback (React Native, Express, Socket.io, PostgreSQL)
+- **[Hydra Server](https://github.com/yewen-jin/hydra-server)** — Custom UI and extensions built on top of the Hydra video synth platform for live performances
+- **[Skopetur Platform](https://github.com/yewen-jin/skopetur-frontend)** — WebRTC streaming interface for live networked performances (Svelte, Node.js, Docker)
 
 ### Tech
 
-JavaScript/TypeScript, Svelte, React, React Native, Node.js, Express,
-PostgreSQL, MongoDB, WebRTC, WebGL, Web Audio API, Socket.io, Docker, Git, Figma
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### Background
 
