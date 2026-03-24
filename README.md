@@ -6,7 +6,7 @@ I build real-time web applications, interactive platforms, and creative tools.
 
 ### What I've built
 
-- **[Browser-based Chatroom/Ineractive Narrative Game](https://github.com/yewen-jin/synthwave-chatroom)**: [preview](chat.datadadaist.space/docs) Live chat and branch based narrative choice game (twine-style) with generative visuals (p5.js, Socket.io)
+- **[Browser-based Chatroom/Ineractive Narrative Game](https://github.com/yewen-jin/synthwave-chatroom)**: [preview](https://chat.datadadaist.space/docs) Live chat and branch based narrative choice game (twine-style) with generative visuals (p5.js, Socket.io)
 - **Spillr: [Front-end](https://github.com/Ines1299/SpillR-app), [Back-end](https://github.com/yewen-jin/spillr-BE)**: Real-time TV commentary app with synced playback (React Native, Express, Socket.io, PostgreSQL)
 - **[Hydra Server](https://github.com/yewen-jin/hydra-server)**: Custom UI and extensions built on top of the Hydra video synth platform for live performances
 - **NC News: [Front-end](https://github.com/yewen-jin/nc-news), [Back-end](https://github.com/yewen-jin/nc-news-backend)**: Reddit-style news app with RESTful API (React, Express, PostgreSQL)
