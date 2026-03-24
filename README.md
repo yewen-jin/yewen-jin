@@ -11,6 +11,7 @@ I build real-time web applications, interactive platforms, and creative tools.
 - **[Hydra Server](https://github.com/yewen-jin/hydra-server)**: Custom UI and extensions built on top of the Hydra video synth platform for live performances
 - **NC News: [Front-end](https://github.com/yewen-jin/nc-news), [Back-end](https://github.com/yewen-jin/nc-news-backend)**: Reddit-style news app with RESTful API (React, Express, PostgreSQL)
 - **Skopetur Platform**: WebRTC streaming interface for live networked performances (Svelte, Node.js, Docker) · [Project site](https://skopetur.com)
+- **[Personal Website](https://yewenjin.com)** · [Source](https://github.com/yewen-jin/yewenjin-portfolio) — Portfolio site (Next.js)
 
 ### Tech
 
