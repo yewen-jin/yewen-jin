@@ -36,7 +36,8 @@ MA Computational Arts (Goldsmiths) · Architecture (AA) · BA Maths & Philosophy
 
 ---
 
-*Also known as djSQL — she sweeps through side quests, hence the name side quest legend.*
+*Q: Why am I called djSQL?
+A: djSQL was initially one of my DJ alias, named after my habit of sweeping through side quests when i play video games (and in life), hence the name dj_side_quest_legend, short for djSQL*
 
 
 
