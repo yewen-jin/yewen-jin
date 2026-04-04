@@ -36,8 +36,8 @@ MA Computational Arts (Goldsmiths) · Architecture (AA) · BA Maths & Philosophy
 
 ---
 
-*Q: Why am I called djSQL?
-A: djSQL was initially one of my DJ alias, named after my habit of sweeping through side quests when i play video games (and in life), hence the name dj_side_quest_legend, short for djSQL*
+Q: Why am I called djSQL?
+A: djSQL was initially one of my DJ alias, named after my habit of sweeping through side quests when i play video games (and in life), hence the name dj_side_quest_legend, short for djSQL
 
 
 
