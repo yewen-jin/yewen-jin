@@ -83,6 +83,7 @@ Portfolio site built with AI-assisted development (Claude) before I started the 
 ### Education
 
 ||||
+|---|---|---|
 |**Goldsmiths, University of London**|MA Computational Arts|C++, Processing, Max/MSP, Unity, OOP|
 |**Architectural Association / UPenn**|Architecture Studies|Parametric design, Rhino, Grasshopper, Python|
 |**New York University**|BA Mathematics & Philosophy|Discrete maths, linear algebra, analysis, logic|
