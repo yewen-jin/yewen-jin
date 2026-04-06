@@ -36,7 +36,7 @@ I co-founded Skopetur Ltd as a creative technology company for networked live pe
 
 ### NC News — Full-Stack Reddit-Style Application
 
-[Frontend](https://github.com/yewen-jin/nc-news) · [Backend](https://github.com/yewen-jin/nc-news-backend)
+[Frontend](https://github.com/yewen-jin/nc-news) · [Backend](https://github.com/yewen-jin/nc-news-backend) · [Deployed](https://nc-newwwwws.netlify.app/)
 
 Full-stack web application with a RESTful API supporting CRUD operations, parametric queries, sorting, pagination, and error handling. Frontend built in React with responsive design and optimistic rendering. Backend built with Express and PostgreSQL with full test coverage using Jest and TDD methodology throughout. Seeding, migrations, and hosted deployment.
 
@@ -82,7 +82,7 @@ Portfolio site built with AI-assisted development (Claude) before I started the 
 
 ### Education
 
-||||
+
 |---|---|---|
 |**Goldsmiths, University of London**|MA Computational Arts|C++, Processing, Max/MSP, Unity, OOP|
 |**Architectural Association / UPenn**|Architecture Studies|Parametric design, Rhino, Grasshopper, Python|
