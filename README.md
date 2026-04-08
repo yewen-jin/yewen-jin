@@ -7,6 +7,7 @@ Full-stack developer and Creative technologist based in London with a background
 ---
 ## What I've built
 
+---
 ### The Body is Obsolete — Interactive Narrative Game
 
 [GitHub](https://github.com/yewen-jin/synthwave-chatroom) · [Live](https://chat.datadadaist.space/)
@@ -15,7 +16,7 @@ A browser-based interactive fiction experience disguised as a chatroom. Audience
 
 **Stack:** Node.js, Socket.io, p5.js, HTML/CSS, JavaScript
 
-
+---
 ### SpillR — Real-Time TV Show Comment Platform
 
 [Frontend](https://github.com/Ines1299/SpillR-app) · [Backend](https://github.com/yewen-jin/spillr-BE)
@@ -24,7 +25,7 @@ A time-synced live TV commentary app. Comment and react with emoji on shows in r
 
 **Stack:** React Native, Expo, Express, Socket.io, Supabase, PostgreSQL, Jest, GitHub Actions
 
-
+---
 ### Skopetur Interactive Performance Platform
 
 [skopetur.com](https://skopetur.com/)
@@ -33,7 +34,7 @@ I co-founded Skopetur Ltd as a creative technology company for networked live pe
 
 **Stack:** Svelte, SvelteKit, Node.js, Docker, WebRTC, Figma
 
-
+---
 ### NC News — Full-Stack Reddit-Style Application
 
 [Frontend](https://github.com/yewen-jin/nc-news) · [Backend](https://github.com/yewen-jin/nc-news-backend) · [Deployed](https://nc-newwwwws.netlify.app/)
@@ -42,7 +43,7 @@ Full-stack web application with a RESTful API supporting CRUD operations, parame
 
 **Stack:** React, Express, PostgreSQL, Jest
 
-
+---
 ### Personal Website
 
 [yewenjin.com](https://yewenjin.com/) · [Source](https://github.com/yewen-jin/yewenjin-portfolio)
