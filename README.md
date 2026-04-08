@@ -20,7 +20,7 @@ A browser-based interactive fiction experience disguised as a chatroom. Audience
 
 [Frontend](https://github.com/Ines1299/SpillR-app) · [Backend](https://github.com/yewen-jin/spillr-BE)
 
-Group project at Northcoders. I took on the system architecture role — designed a dual-timestamp comment model that allows comments to be anchored to both real time and show playback time, built the WebSocket/REST integration layer so real-time comments merge seamlessly with prefetched data, and produced all architecture diagrams and data flow documentation. When the codebase became hard to maintain I led a major refactor to consolidate duplicated logic. Teammates consistently came to me first for debugging, scope decisions, and architectural questions.
+A time-synced live TV commentary app. Comment and react with emoji on shows in real time - every message is anchored to the show's timeline, not the clock, so premiere and catchup viewers share the same spoiler-free conversation. Group project at Northcoders. 
 
 **Stack:** React Native, Expo, Express, Socket.io, Supabase, PostgreSQL, Jest, GitHub Actions
 
