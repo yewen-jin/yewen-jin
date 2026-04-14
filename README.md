@@ -4,6 +4,26 @@ Full-stack developer and Creative technologist based in London with a background
 
 [LinkedIn](https://linkedin.com/in/yewenjin) · [yewenjin.com](https://yewenjin.com/)
 
+
+---
+## What I'm building currently:
+
+---
+### Pendulum
+[GitHub](https://github.com/yewen-jin/pendulum)
+
+A browser-based visual engine with user-friendly interface that connects body gesture/facial expression (Mediapipe）， MIDI CC input (local+remote), Audio input and LLM based image generation workflow.
+
+#### Currently completed:
+- a Hypha based visual engine
+- the bridge between the browser output with audio input, MIDI input, facial and gesture input, and integrated ModMuPlat user interfact for smartphone control.
+
+#### Next Step:
+- explore other visual tools: **three.js**, **p5.js**, create a mode switcher between them
+- add physical rules for visualiser based on hand movemet
+- connect to open router and other LLM based API for prompt generation
+
+
 ---
 ## What I've built
 
