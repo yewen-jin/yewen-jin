@@ -8,7 +8,7 @@ Full-stack developer and Creative technologist based in London with a background
 ---
 ## What I'm building currently:
 
----
+
 ### Pendulum
 [GitHub](https://github.com/yewen-jin/pendulum)
 
@@ -24,10 +24,10 @@ A browser-based visual engine with user-friendly interface that connects body ge
 - connect to open router and other LLM based API for prompt generation
 
 
----
+
 ## What I've built
 
----
+
 ### The Body is Obsolete — Interactive Narrative Game
 
 [GitHub](https://github.com/yewen-jin/synthwave-chatroom) · [Live](https://chat.datadadaist.space/)
