@@ -52,6 +52,7 @@ A browser-based interactive fiction experience disguised as a chatroom. Audience
 Node.js, Socket.io, p5.js, HTML/CSS, JavaScript
 
 ### Job Tracker // Personal Application Dashboard
+
 [GitHub](https://github.com/yewen-jin/job-tracker) · [Live](https://job-tracker.datadadaist.space/)    
 A full-stack job application tracker built to stay organized through an active job search. Paste a job URL and AI auto-fills the details; upload your CV and get a match score with gap analysis against any listing. Applications move through a Kanban-style status pipeline with priority levels, daily planning, and rich metadata fields (salary, work mode, culture notes, red flags). Deployed on Vercel with Supabase handling auth, storage, and edge functions — designed so anyone can fork it and self-host their own private instance.
 
