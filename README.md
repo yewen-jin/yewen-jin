@@ -27,7 +27,20 @@ A browser-based visual engine with user-friendly interface that connects body ge
 
 ## What I've built
 
+### MIDI Relay — Remote MIDI Control Server
+[GitHub](https://github.com/yewen-jin/remote-midi) · [Live](https://midi.datadadaist.space)
 
+  A real-time WebSocket relay that forwards raw MIDI bytes between a sender and
+   one or more receivers over the internet — no inbound port access required on
+   either end. Built to revive a remote robotic installation workflow that was
+  broken by modern NAT/firewall restrictions. Both clients connect outbound to
+  a central relay, which routes binary MIDI frames through named rooms with
+  sub-50ms added latency. Deployed on a VPS behind Nginx with automatic TLS,
+  with browser and Node.js clients supporting auto-reconnection for unattended
+  installations.
+
+  **Stack:** Node.js, WebSockets (ws), Web MIDI API, Nginx, Docker
+  
 ### The Body is Obsolete — Interactive Narrative Game
 
 [GitHub](https://github.com/yewen-jin/synthwave-chatroom) · [Live](https://chat.datadadaist.space/)
