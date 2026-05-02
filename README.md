@@ -1,6 +1,6 @@
 ## Yewen Jin
 
-Full-stack developer and Creative technologist based in London with a background in mathematics (NYU), computational arts (Goldsmiths), and architecture (AA/UPenn). I've been building interactive web applications, networked performance tools, and creative software in the past year fews, wearing hats of product manager and UI/UX designer and shipping production work with AI-assisted development workflows (Claude, Copilot). I recently completed a software development bootcamp from Northcoders because I wanted to understand how to approach code like a software developer and the fundamental methods of how things were built.
+Creative Technologist turned Software Engineer based in London. Background in mathematics (NYU), computational arts (Goldsmiths), and architecture (AA/UPenn). I've been building interactive web applications, networked performance tools, and creative software in the past year fews, wearing hats of product manager and UI/UX designer and shipping production work with AI-assisted development workflows (Claude, Copilot). I recently completed a software development bootcamp from Northcoders because I wanted to understand how to approach code like a software developer and the fundamental methods of how things were built.
 
 [LinkedIn](https://linkedin.com/in/yewenjin) · [yewenjin.com](https://yewenjin.com/)
 
@@ -27,8 +27,8 @@ A browser-based visual engine with user-friendly interface that connects body ge
 
 ## What I've built
 
-### MIDI Relay — Remote MIDI Control Server
-[GitHub](https://github.com/yewen-jin/remote-midi) · [Live](https://midi.datadadaist.space)
+### MIDI Relay // Remote MIDI Control Server
+[GitHub](https://github.com/yewen-jin/remote-midi) · [Live](https://midi.datadadaist.space/)
 
   A real-time WebSocket relay that forwards raw MIDI bytes between a sender and
    one or more receivers over the internet — no inbound port access required on
@@ -39,26 +39,34 @@ A browser-based visual engine with user-friendly interface that connects body ge
   with browser and Node.js clients supporting auto-reconnection for unattended
   installations.
 
-  **Stack:** Node.js, WebSockets (ws), Web MIDI API, Nginx, Docker
+  **Stack:** 
+  Node.js, WebSockets (ws), Web MIDI API, Nginx, Docker
   
-### The Body is Obsolete — Interactive Narrative Game
+### The Body is Obsolete // Interactive Narrative Game
 
-[GitHub](https://github.com/yewen-jin/synthwave-chatroom) · [Live](https://chat.datadadaist.space/)
+[GitHub](https://github.com/yewen-jin/synthwave-chatroom) · [Live](https://chat.datadadaist.space/docs)
 
 A browser-based interactive fiction experience disguised as a chatroom. Audiences enter what looks like a messaging interface and find themselves inside a branching narrative with generative visuals built in p5.js. I designed, built, and deployed this independently for a live cabaret performance — handling the frontend, backend (Node.js, Socket.io), visual design, and live technical operation on the night. This was built with AI-assisted development before I had any formal web development training.
 
-**Stack:** Node.js, Socket.io, p5.js, HTML/CSS, JavaScript
+**Stack:** 
+Node.js, Socket.io, p5.js, HTML/CSS, JavaScript
 
----
-### SpillR — Real-Time TV Show Comment Platform
+### Job Tracker // Personal Application Dashboard
+[GitHub](https://github.com/yewen-jin/job-tracker) · [Live](https://job-tracker.datadadaist.space/)    
+A full-stack job application tracker built to stay organized through an active job search. Paste a job URL and AI auto-fills the details; upload your CV and get a match score with gap analysis against any listing. Applications move through a Kanban-style status pipeline with priority levels, daily planning, and rich metadata fields (salary, work mode, culture notes, red flags). Deployed on Vercel with Supabase handling auth, storage, and edge functions — designed so anyone can fork it and self-host their own private instance.
+
+**Stack:**
+React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase, Firecrawl, OpenRouter
+
+### SpillR // Real-Time TV Show Comment Platform
 
 [Frontend](https://github.com/Ines1299/SpillR-app) · [Backend](https://github.com/yewen-jin/spillr-BE)
 
 A time-synced live TV commentary app. Comment and react with emoji on shows in real time - every message is anchored to the show's timeline, not the clock, so premiere and catchup viewers share the same spoiler-free conversation. Group project at Northcoders. 
 
-**Stack:** React Native, Expo, Express, Socket.io, Supabase, PostgreSQL, Jest, GitHub Actions
+**Stack:** 
+React Native, Expo, Express, Socket.io, Supabase, PostgreSQL, Jest, GitHub Actions
 
----
 ### Skopetur Interactive Performance Platform
 
 [skopetur.com](https://skopetur.com/)
@@ -67,23 +75,23 @@ I co-founded Skopetur Ltd as a creative technology company for networked live pe
 
 **Stack:** Svelte, SvelteKit, Node.js, Docker, WebRTC, Figma
 
----
-### NC News — Full-Stack Reddit-Style Application
+### NC News // Full-Stack Reddit-Style Application
 
 [Frontend](https://github.com/yewen-jin/nc-news) · [Backend](https://github.com/yewen-jin/nc-news-backend) · [Deployed](https://nc-newwwwws.netlify.app/)
 
 Full-stack web application with a RESTful API supporting CRUD operations, parametric queries, sorting, pagination, and error handling. Frontend built in React with responsive design and optimistic rendering. Backend built with Express and PostgreSQL with full test coverage using Jest and TDD methodology throughout. Seeding, migrations, and hosted deployment.
 
-**Stack:** React, Express, PostgreSQL, Jest
+**Stack:** 
+React, Express, PostgreSQL, Jest
 
----
 ### Personal Website
 
 [yewenjin.com](https://yewenjin.com/) · [Source](https://github.com/yewen-jin/yewenjin-portfolio)
 
 Portfolio site built with AI-assisted development (Claude) before I started the Northcoders bootcamp. One of the projects that taught me I could ship real things with AI tools and strong design instinct, even without formal engineering training.
 
-**Stack:** Next.js
+**Stack:** 
+Next.js
 
 
 ---
@@ -131,9 +139,7 @@ As a musician, I release on [Chinabot](https://chinabot.bandcamp.com/) and [LIMB
 
 ---
 
-Q: Why am I called djSQL?
-
-A: djSQL was initially one of my DJ alias, named after my habit of sweeping through side quests when i play video games (and in life), hence the name dj_side_quest_legend, short for djSQL
+djSQL aka SideQuestLegend
 
 <!--### Who is djSQL?
 
