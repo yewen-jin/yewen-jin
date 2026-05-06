@@ -6,41 +6,14 @@ Creative Technologist turned Software Engineer based in London. Background in ma
 
 
 ---
-## What I'm building currently:
-
-
-### Pendulum
-[GitHub](https://github.com/yewen-jin/pendulum)
-
-A browser-based visual engine with user-friendly interface that connects body gesture/facial expression (Mediapipe）， MIDI CC input (local+remote), Audio input and LLM based image generation workflow.
-
-#### Currently completed:
-- a Hypha based visual engine
-- the bridge between the browser output with audio input, MIDI input, facial and gesture input, and integrated ModMuPlat user interfact for smartphone control.
-
-#### Next Step:
-- explore other visual tools: **three.js**, **p5.js**, create a mode switcher between them
-- add physical rules for visualiser based on hand movemet
-- connect to open router and other LLM based API for prompt generation
-
-
 
 ## What I've built
 ### Alibi // AI Time Reflection App
 [GitHub](https://github.com/yewen-jin/alibi-coach) · [Live](https://alibi.day)
 
-  An ADHD-informed AI time journal that turns timers, notes, manual blocks,
-  and timestamped companion chat into a single timeline of what happened,
-  what was intended, and what was actually going through the user’s mind.
-  Built as a “time mirror” for people with time blindness, combining
-  factual start/stop time records with CBT-style intention tracking and
-  reflective chat. Agentic workflows classify intent, control timers,
-  request clarification, log structured time blocks, and extract language
-  patterns into behavioral signals such as avoidance, friction, useful
-  drift, emotional context, and intention/action mismatch. Dashboard
-  mirrors separate high-trust block-note evidence from chat-derived
-  patterns, helping users reconstruct their day without treating gaps or
-  silence as failure.
+  An ADHD-informed AI time journal that turns timers, notes, manual blocks, and timestamped companion chat into a single timeline of what happened,what was intended, and what was actually going through the user’s mind. Built as a “time mirror” for people with time blindness, combining factual start/stop time records with CBT-style intention tracking and reflective chat. 
+  
+  Agentic workflows classify intent, control timers, request clarification, log structured time blocks, and extract language patterns into behavioral signals such as avoidance, friction, useful drift, emotional context, and intention/action mismatch. Dashboard mirrors separate high-trust block-note evidence from chat-derived patterns, helping users reconstruct their day without treating gaps or silence as failure.
 
   Stack: Next.js, React, TypeScript, Tailwind CSS, Supabase, Vercel AI SDK,
   OpenRouter, Vercel
@@ -112,7 +85,23 @@ Portfolio site built with AI-assisted development (Claude) before I started the 
 **Stack:** 
 Next.js
 
+---
+## What I'm building currently:
 
+
+### Pendulum
+[GitHub](https://github.com/yewen-jin/pendulum)
+
+A browser-based visual engine with user-friendly interface that connects body gesture/facial expression (Mediapipe）， MIDI CC input (local+remote), Audio input and LLM based image generation workflow.
+
+#### Currently completed:
+- a Hypha based visual engine
+- the bridge between the browser output with audio input, MIDI input, facial and gesture input, and integrated ModMuPlat user interfact for smartphone control.
+
+#### Next Step:
+- explore other visual tools: **three.js**, **p5.js**, create a mode switcher between them
+- add physical rules for visualiser based on hand movemet
+- connect to open router and other LLM based API for prompt generation
 ---
 
 ### Tech
