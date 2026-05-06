@@ -26,6 +26,24 @@ A browser-based visual engine with user-friendly interface that connects body ge
 
 
 ## What I've built
+### Alibi // AI Time Reflection App
+[GitHub](https://github.com/yewen-jin/alibi-coach) · [Live](https://alibi.day)
+
+  An ADHD-informed AI time journal that turns timers, notes, manual blocks,
+  and timestamped companion chat into a single timeline of what happened,
+  what was intended, and what was actually going through the user’s mind.
+  Built as a “time mirror” for people with time blindness, combining
+  factual start/stop time records with CBT-style intention tracking and
+  reflective chat. Agentic workflows classify intent, control timers,
+  request clarification, log structured time blocks, and extract language
+  patterns into behavioral signals such as avoidance, friction, useful
+  drift, emotional context, and intention/action mismatch. Dashboard
+  mirrors separate high-trust block-note evidence from chat-derived
+  patterns, helping users reconstruct their day without treating gaps or
+  silence as failure.
+
+  Stack: Next.js, React, TypeScript, Tailwind CSS, Supabase, Vercel AI SDK,
+  OpenRouter, Vercel
 
 ### MIDI Relay // Remote MIDI Control Server
 [GitHub](https://github.com/yewen-jin/remote-midi) · [Live](https://midi.datadadaist.space/)
