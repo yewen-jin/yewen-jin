@@ -1,6 +1,6 @@
 ## Yewen Jin
 
-Creative Technologist turned Software Engineer based in London. Background in mathematics (NYU), computational arts (Goldsmiths), and architecture (AA/UPenn). I've been building interactive web applications, networked performance tools, and creative software in the past year fews, wearing hats of product manager and UI/UX designer and shipping production work with AI-assisted development workflows (Claude, Copilot). I recently completed a software development bootcamp from Northcoders because I wanted to understand how to approach code like a software developer and the fundamental methods of how things were built.
+Creative Technologist turned Software Engineer based in London. Background in mathematics (NYU), computational arts (Goldsmiths), and architecture (AA/UPenn). I've been building interactive web applications, networked performance tools, and creative software in the past year fews, wearing hats of product manager and UI/UX designer and shipping production work with AI-assisted development workflows (Claude, Codex, Opencode). I recently completed a software development bootcamp from Northcoders because I wanted to understand how to approach code like a software developer and the fundamental methods of how things were built.
 
 [LinkedIn](https://linkedin.com/in/yewenjin) · [yewenjin.com](https://yewenjin.com/)
 
